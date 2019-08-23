@@ -35,7 +35,7 @@ map creates a new array with the results of calling a provided function on every
 
 2. What is the difference between a function and a method?
 
-METHODS are functions that are attached to an object while FUNCTION is
+METHODS are functions that are attached to an object while FUNCTION is a subprogram designed to perform a particular task.
 
 
 3. What is closure?

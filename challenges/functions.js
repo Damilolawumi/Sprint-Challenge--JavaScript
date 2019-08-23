@@ -27,6 +27,7 @@
 
 // Explanation: 
 
+// A function is called “nested” when it is created inside another function. 
 
 const external = "I'm outside the function";
 
